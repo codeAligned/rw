@@ -1,0 +1,94 @@
+fileName	Record	FieldHeading	Data
+photoVoltPrintElecPR	0	SearchTerms	photovoltaic "printed electronics" "Press Release" OR "News Release"
+photoVoltPrintElecPR	0	Results	1750
+photoVoltPrintElecPR	0	TimeStamp	2015-09-09 13:06:23
+photoVoltPrintElecPR	1	title	IDTechEx: Market Research, Scouting and Events on Emerging ...
+photoVoltPrintElecPR	1	snippet	Printed Electronics USA 2015 Energy Harvesting & Storage USA 2015 ... Printed Electronics Europe 2016 Graphene Europe 2016 3D Printing Europe 2016...
+photoVoltPrintElecPR	1	link	http://www.idtechex.com/
+photoVoltPrintElecPR	2	title	Heliatek supplies HeliaFilm for Asia's largest BIOPV installation ...
+photoVoltPrintElecPR	2	snippet	Mar 3, 2015 ... Press Release ... "Building integrated organic photovoltaic (BIOPV) can provide a significant ... From 2D to 3D Printed Electronics 2015-2025.
+photoVoltPrintElecPR	2	link	http://www.printedelectronicsworld.com/articles/7500/heliatek-supplies-heliafilm-reg-for-asias-largest-biopv-installation
+photoVoltPrintElecPR	3	title	Printing Equipment for Printed Electronics 2015-2025: IDTechEx
+photoVoltPrintElecPR	3	snippet	Apr 7, 2015 ... Printing Equipment for Printed Electronics 2015-2025: IDTechEx. ... Crystalline Silicon Photovoltaics. 3.2. Thin Film Photovoltaics. 3.3.
+photoVoltPrintElecPR	3	link	http://www.idtechex.com/research/reports/printing-equipment-for-printed-electronics-2015-2025-000418.asp
+photoVoltPrintElecPR	4	title	Perovskite photovoltaic module with 8 percent conversion efficiency ...
+photoVoltPrintElecPR	4	snippet	Jun 11, 2015 ... Perovskite photovoltaic module with 8 percent conversion efficiency | Energy ... Press Release .... From 2D to 3D Printed Electronics 2015-2025.
+photoVoltPrintElecPR	4	link	http://www.energyharvestingjournal.com/articles/7939/perovskite-photovoltaic-module-with-8-percent-conversion-efficiency
+photoVoltPrintElecPR	5	title	CSEM Brasil : new phase for printed organic photovoltaics with ...
+photoVoltPrintElecPR	5	snippet	May 26, 2014 ... The largest roll-to-roll production line dedicated to printed electronics and OPV in the Americas and one of the largest worldwide is to complete...
+photoVoltPrintElecPR	5	link	http://www.csem.ch/site/card.asp?pId=27160
+photoVoltPrintElecPR	6	title	IDTechEx Printed Electronics Award 2014 - Roth & Rau B.V.
+photoVoltPrintElecPR	6	snippet	Press Release ... During the international Printed Electronics USA exhibition and conference from 19 20 November in Santa ... as encapsulating barrier films for flexible OLED or organic photovoltaics and manufacturing of flexible batteries.
+photoVoltPrintElecPR	6	link	http://www.roth-rau.nl/idtechex-printed-electronics-award-2014/
+photoVoltPrintElecPR	7	title	Press Release: Energy for life Organic Photovoltaics opens up ...
+photoVoltPrintElecPR	7	snippet	Jun 1, 2015 ... Press Release: Energy for life Organic Photovoltaics opens up new ... The OE- A (Organic and Printed Electronics Association) visits Milan...
+photoVoltPrintElecPR	7	link	http://www.oe-a.org/article/-/articleview/176192
+photoVoltPrintElecPR	8	title	While you're up, print me a solar cell | MIT News
+photoVoltPrintElecPR	8	snippet	Jul 11, 2011 ... In order to create an array of photovoltaic cells on the paper, five layers of ... chairman of IDTechEx, which does research on printed electronics.
+photoVoltPrintElecPR	8	link	http://news.mit.edu/2011/printable-solar-cells-0711
+photoVoltPrintElecPR	9	title	Press Release: Paving the Way from Lab to Market OE-A ...
+photoVoltPrintElecPR	9	snippet	Jul 2, 2015 ... Organic and printed electronics established itself as a competitive ... Lighting, Organic Photovoltaics (OPV), Flexible and OLED Displays,...
+photoVoltPrintElecPR	9	link	http://www.oe-a.org/article/-/articleview/189484
+photoVoltPrintElecPR	10	title	Nanotechnology Now - Press Release: "Organic Photovoltaics ...
+photoVoltPrintElecPR	10	snippet	Dec 4, 2009 ... Organic photovoltaics (OPV) is a key segment of organic and printed electronics. OPV opens up a new and advantageous way of clean...
+photoVoltPrintElecPR	10	link	http://www.nanotech-now.com/news.cgi?story_id=35675
+photoVoltPrintElecPR	11	title	PV Nano Cell Announces Further Expansion into the U.S. Market ...
+photoVoltPrintElecPR	11	snippet	May 28, 2015 ... PVN's Sicrys family of innovative, nanometric conductive inks is expected to speed the adoption of printed electronics (PE), which can bring...
+photoVoltPrintElecPR	11	link	http://www.prnewswire.com/news-releases/pv-nano-cell-announces-further-expansion-into-the-us-market-300090025.html
+photoVoltPrintElecPR	12	title	Nanotechnology Now - Press Release: "Southwest ...
+photoVoltPrintElecPR	12	snippet	Nov 5, 2010 ... Southwest Nanotechnologies To Present Research Paper On Conductive Carbon Nanotube Inks At Printed Electronics And Photovoltaics...
+photoVoltPrintElecPR	12	link	http://www.nanotech-now.com/news.cgi?story_id=40683
+photoVoltPrintElecPR	13	title	PV Nano Cell To Exhibit Its Innovative Sicrys Ink... -- MUNICH and ...
+photoVoltPrintElecPR	13	snippet	Mar 2, 2015 ... "The printed electronics field is helping to bring electronics to every ... and other printed electronics and products and photovoltaic devices...
+photoVoltPrintElecPR	13	link	http://www.prnewswire.com/news-releases/pv-nano-cell-to-exhibit-its-innovative-sicrys-ink-technology-at-lopec-2015-in-munich-germany-300043283.html
+photoVoltPrintElecPR	14	title	ArtESun first press release
+photoVoltPrintElecPR	14	snippet	NEWS RELEASE ... ultimate goal of the ArtESun project is to bring organic photovoltaic ... flexibility of printed electronics in both technical and visual design.
+photoVoltPrintElecPR	14	link	https://projects.imec.be/artesun/sites/projects.imec.be.artesun/files/2014-01%20First%20press%20release%20ArtESun.pdf
+photoVoltPrintElecPR	15	title	Organic PV Modules Pass Stress Test Fraunhofer ISE presents its ...
+photoVoltPrintElecPR	15	snippet	May 22, 2014 ... Press Release 11/14, May 22, 2014. ... booth at the upcoming LOPEC the International Exhibition and Conference for Printed Electronics.
+photoVoltPrintElecPR	15	link	http://www.ise.fraunhofer.de/en/press-and-media/press-releases/press-releases-2014/organic-pv-modules-pass-stress-test
+photoVoltPrintElecPR	16	title	PRESS RELEASE
+photoVoltPrintElecPR	16	snippet	Nov 12, 2013 ... PolyIC Attends Research Consortium on Organic Photovoltaics ... Sensors & Passive Devices as well as Printed Electronics & Displays.
+photoVoltPrintElecPR	16	link	http://www.polyic.com/fileadmin/images/content-images/presse_news_events/Pressemeldungen/2013-11_PolyIC_Attends_Research_Consortium_Popup.pdf
+photoVoltPrintElecPR	17	title	Ad-Hoc / Commercial News
+photoVoltPrintElecPR	17	snippet	Nov 28, 2014 ... During the international Printed Electronics USA exhibition and ... films for flexible OLED or organic photovoltaics and manufacturing of flexible batteries. ... THIS PRESS RELEASE IS NOT BEING ISSUED IN THE UNITED...
+photoVoltPrintElecPR	17	link	http://www.meyerburger.com/en/media/ad-hoc-commercial-news/current/?newsevents%5Bdetail%5D=1865&cHash=f57f321f351487f923a3a4ab76c64123
+photoVoltPrintElecPR	18	title	news printed electronics - english
+photoVoltPrintElecPR	18	snippet	news Printed Electronics, Digital Printing. ... Press Release .... InkJet by Laurence DASSAS, CTO, during the Photovoltaics session on April 18th at 12: 05 a.m.
+photoVoltPrintElecPR	18	link	http://www.adphos.com/news-213.html
+photoVoltPrintElecPR	19	title	SIMTech > Media > Press Release
+photoVoltPrintElecPR	19	snippet	Nov 23, 2011 ... SINGAPORE, 23 November 2011: Key business leaders from the organic and printed electronics industry throughout Asia, Europe and the US...
+photoVoltPrintElecPR	19	link	http://www.a-star.edu.sg/simtech/Media/Press-Release/tid/930/A-STAR-SIMTech-Sees-Future-in-Game-Changing-Printed-Electronics-and-Functional-Films.aspx
+photoVoltPrintElecPR	20	title	File
+photoVoltPrintElecPR	20	snippet	Apr 4, 2012 ... PRESS RELEASE. Heliatek ... solar cell technology at IDTechEx Printed Electronics ... significantly stimulated the field of organic photovoltaics..
+photoVoltPrintElecPR	20	link	http://www.heliatek.com/en/press/press-releases/details/heliatek-wins-materials-award-for-its-breakthrough-solar-cell-technology-at-idtechex-printed-electronics?file=files/content/Presse/2012%20Pressemitteilungen/120404_PI_Heliatek%20wins%20Materials%20Award%20from%20IDTechEX_EN.pdf
+photoVoltPrintElecPR	21	title	PV Nano Cell Enters U.S. Market with Innovative Solar Cell Printing ...
+photoVoltPrintElecPR	21	snippet	Apr 13, 2015 ... MIGDAL HA'EMEK, ISRAEL (April 9, 2015) - PV Nano Cell, ... and other forms of connectivity; and other printed electronics and products.
+photoVoltPrintElecPR	21	link	http://www.altenergymag.com/news/2015/04/13/pv-nano-cell-enters-us-market-with-innovative-solar-cell-printing-technology/19549/
+photoVoltPrintElecPR	22	title	Press Releases 2014 Fraunhofer ISE
+photoVoltPrintElecPR	22	snippet	Multi-junction cells are used in concentrator photovoltaic (CPV) systems to .... LOPEC the International Exhibition and Conference for Printed Electronics.
+photoVoltPrintElecPR	22	link	https://www.ise.fraunhofer.de/en/press-and-media/press-releases/press-releases-2014/presseinformationen-2014-en
+photoVoltPrintElecPR	23	title	Oryon Technologies, Inc. : Oryon Technologies Announces Strategic ...
+photoVoltPrintElecPR	23	snippet	Jan 23, 2014 ... Back to News Release Listing ... EFL Tech is a global technology company and a premier developer and licensor of printed electronics based on electroluminescent (EL), electrochromic (EC) and transparent organic photovoltaic (TOPV) ... Statements in this press release that are not purely historical are...
+photoVoltPrintElecPR	23	link	http://www.oryontech.com/news/news_releases/2014/01/oryon-technologies-announces-strategic-investment-by-efl-tech-for-global-el-business-expansion
+photoVoltPrintElecPR	24	title	Seashell Technology - Silver Nanowire Patent Press Release
+photoVoltPrintElecPR	24	snippet	Oct 22, 2012 ... Seashell Technology - Silver Nanowire Patent Press Release ... for example, conductive pastes, EMI shielding or photovoltaic applications. ... materials at the IDTechEx Printed Electronics USA 2012 conference to be held on...
+photoVoltPrintElecPR	24	link	http://www.seashelltech.com/pressRelease_AgNWproducts.shtml
+photoVoltPrintElecPR	25	title	Download Press Release
+photoVoltPrintElecPR	25	snippet	Press Release. PR 03. CW 25/2013 ... manufacture of printed electronics. In functional printing the ink is ... photovoltaics to electronics. Carsten Schimansky and...
+photoVoltPrintElecPR	25	link	http://www.notion-systems.com/EN/media/files/PR-03-2013-en.pdf
+photoVoltPrintElecPR	26	title	Picosun revolutionizes roll-to-roll ALD technology
+photoVoltPrintElecPR	26	snippet	Nov 19, 2012 ... The printed electronics market alone has been estimated to increase 4-fold in the next five years ... Download the English press release here
+photoVoltPrintElecPR	26	link	http://www.picosun.com/sitenews/view/-/nid/96/ngid/4
+photoVoltPrintElecPR	27	title	News & Press | Holst Centre - Open-Innovation by imec and TNO
+photoVoltPrintElecPR	27	snippet	Type; News article; Press release. Innovation ... New Focus on Flexible Substrates to Benefit Printed Electronics and Organic Photovoltaics BRISTOL, UK , Feb.
+photoVoltPrintElecPR	27	link	http://www.holstcentre.com/news---press/?page=9
+photoVoltPrintElecPR	28	title	Applied Nanotech, Inc. :: Press Release
+photoVoltPrintElecPR	28	snippet	Apr 2, 2013, Applied Nanotech to Exhibit at Printed Electronics Europe 2013 ... Inks and Pastes at IDTechEx Printed Electronics and Photovoltaics USA 2010.
+photoVoltPrintElecPR	28	link	http://www.appliednanotech.net/news/press_releases.php
+photoVoltPrintElecPR	29	title	EMSE PulseForge Press Release | Ceradrop
+photoVoltPrintElecPR	29	snippet	Mar 4, 2013 ... The goal of the effort is to study and commercialize printed electronics technologies including for smartcards, smart objects, and photovoltaics...
+photoVoltPrintElecPR	29	link	http://www.ceradrop.fr/actualite/emse-pulseforge-press-release.html
+photoVoltPrintElecPR	30	title	Heraeus Photovoltaics
+photoVoltPrintElecPR	30	snippet	The Heraeus Photovoltaics Business Unit is an industry leading developer and manufacturer of metallization pastes for the ... Download our latest press release.
+photoVoltPrintElecPR	30	link	http://heraeus-pvsilverpaste.com/en/home/home.aspx
