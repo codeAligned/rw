@@ -1,5 +1,6 @@
 # id files
 id/
+config.py
 
 # History files
 .Rhistory

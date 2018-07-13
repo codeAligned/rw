@@ -1,0 +1,21 @@
+Custom Search engines
+
+Name: googlePat
+Built in keywords: none
+Search Only Included Sites:www.google.com/patents
+
+Name: linkedIn
+Built in keywords: none
+Search Only Included Sites:linkedIn.com
+
+Name: PressRelease
+Built in keywords: "press release" or "news release"
+Search Entire Web but emphasize these sites:prinewswire.com; press-news.org
+
+Name: general
+Built in keywords: none
+Search Entire Web
+
+Name: Science
+Built in keywords: none
+Search Only Included Sites:http://citeseerx.ist.psu.edu/; http://ieeexplore.ieee.org; www.sciencedirect.com; www.ncbi.nlm.nih.gov; http://scholar.google.com/

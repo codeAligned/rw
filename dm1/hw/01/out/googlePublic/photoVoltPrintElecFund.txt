@@ -1,0 +1,94 @@
+fileName	Record	FieldHeading	Data
+photoVoltPrintElecFund	0	SearchTerms	photovoltaic "printed electronics" "venture capital" OR "funding" OR "Investment"
+photoVoltPrintElecFund	0	Results	5100
+photoVoltPrintElecFund	0	TimeStamp	2015-09-09 13:06:20
+photoVoltPrintElecFund	1	title	Printed Electronics USA 2009: Printed Electronics
+photoVoltPrintElecFund	1	snippet	This year, IDTechEx is collocating Printed Electronics with Photovoltaics USA. ... High-quality investment opportunities and perspectives in printed electronics...
+photoVoltPrintElecFund	1	link	http://www.idtechex.com/printedelectronicsusa09/en/
+photoVoltPrintElecFund	2	title	Printed Photovoltaics Scott Watkins
+photoVoltPrintElecFund	2	snippet	Scott Watkins, Stream Leader Organic Photovoltaics ... Printed Electronics at CSIRO ... Funding from the State Government of Victoria and the. Australian Solar ...
+photoVoltPrintElecFund	2	link	http://www.mpifr-bonn.mpg.de/1192465/Watkins.pdf
+photoVoltPrintElecFund	3	title	The Printed Electronics Industry Gets Going
+photoVoltPrintElecFund	3	snippet	Apr 22, 2015 ... IDTechEx Research Article: The Printed Electronics Industry Gets Going. ... Investment up; more products launched and larger companies driving ... printed batteries, electrochromic displays and Organic Photovoltaics (OPV).
+photoVoltPrintElecFund	3	link	http://www.idtechex.com/research/articles/the-printed-electronics-industry-gets-going-00007736.asp
+photoVoltPrintElecFund	4	title	Printed electronics now_whitepaper
+photoVoltPrintElecFund	4	snippet	Oct 12, 2012 ... Fall 09The Growing Market for Printed Electronics ... the PE market's poten al is that venture capital funding remains strong, despite thefact that ... Photovoltaic technology has been in development for more than 50 years. .... Based in Aus n, TX, HelioVolt has a racted more than $100 million in investment.
+photoVoltPrintElecFund	4	link	http://www.slideshare.net/abderrahimrodani/printed-electronics-nowwhitepaper
+photoVoltPrintElecFund	5	title	PV Nano Cell announces further expansion into the U.S. market ...
+photoVoltPrintElecFund	5	snippet	May 29, 2015 ... PV Nano Cell (PVN) has announced that it is introducing its digital ink technology to the rapidly growing U.S. printed electronics (PE) market. PVN's Sicrys family ... $75 million DoD funding for flexible hybrid electronics hub.
+photoVoltPrintElecFund	5	link	http://www.printedelectronicsworld.com/articles/7889/pv-nano-cell-announces-further-expansion-into-the-u-s-market
+photoVoltPrintElecFund	6	title	News | eight19
+photoVoltPrintElecFund	6	snippet	In his talk Organic photovoltaic modules for energy autonomous smart systems ... Eight19 to present at Printed Electronics Europe 2015 ... Eight19 secures 1m funding. Investment to develop production technology and expand commercial...
+photoVoltPrintElecFund	6	link	http://www.eight19.com/news-events
+photoVoltPrintElecFund	7	title	Organic Photovoltaics | Printed Electronics World
+photoVoltPrintElecFund	7	snippet	The photovoltaic industry remains a major end user of printed electronics. ... Flisom raises funding to ramp up 15 MW flexible CIGS production plant ... Flisom has raised a substantially large investment to further develop its technology and...
+photoVoltPrintElecFund	7	link	http://www.printedelectronicsworld.com/tag/26/organic-photovoltaics
+photoVoltPrintElecFund	8	title	International Workshop on Flexible and Printed Electronics
+photoVoltPrintElecFund	8	snippet	Sensors, Displays and Photovoltaics. Jurgen Daniel ... International Workshop on Flexible and Printed Electronics (IWFPE 10), Sept8-10, 2010, Muju Resort, Korea. DARPA ... The Vision of Flexible/Printed Electronics ..... for your investment.
+photoVoltPrintElecFund	8	link	https://www.parc.com/content/attachments/flexible-printed-electronics-IWFPE10.pdf
+photoVoltPrintElecFund	9	title	Fully printed flexible photovoltaic film | Printed Electronics World
+photoVoltPrintElecFund	9	snippet	Jul 30, 2015 ... Vienna, Austria-based flexible photovoltaic film (PV) innovator, crystalsol GmbH, ... $75 million DoD funding for flexible hybrid electronics hub.
+photoVoltPrintElecFund	9	link	http://www.printedelectronicsworld.com/articles/8107/fully-printed-flexible-photovoltaic-film
+photoVoltPrintElecFund	10	title	Printed Electronics Europe 2008: Introduction
+photoVoltPrintElecFund	10	snippet	A conference exploring the application of printed electronics. ... in electronics on paper and on many new types of smart skin patch for example and photovoltaics beyond silicon. ... High-quality investment opportunities and perspectives.
+photoVoltPrintElecFund	10	link	https://www.idtechex.com/printedelectronicseurope08/
+photoVoltPrintElecFund	11	title	Many promising pathways for solar photovoltaic power | Printed ...
+photoVoltPrintElecFund	11	snippet	Apr 1, 2015 ... Use of solar photovoltaics has been growing at a phenomenal rate: Worldwide installed capacity has seen .... From 2D to 3D Printed Electronics 2015-2025 ... $75 million DoD funding for flexible hybrid electronics hub.
+photoVoltPrintElecFund	11	link	http://www.printedelectronicsworld.com/articles/7632/many-promising-pathways-for-solar-photovoltaic-power
+photoVoltPrintElecFund	12	title	Printed Electronics - The money floods in
+photoVoltPrintElecFund	12	snippet	Printed electronics is now seeing a surge in transactions in the form of orders, ... The potential market for solar cells - photovoltaics - always was for flexible versions ... Boeing in the USA has won $89 million in funding from the U.S. Defense ... a $7 million investment in solar energy start-up Eight19 to develop printed organic...
+photoVoltPrintElecFund	12	link	http://www.perc-sinano.com/en/xsdt.asp?id=43
+photoVoltPrintElecFund	13	title	Printed Electronics USA 2008: Introduction
+photoVoltPrintElecFund	13	snippet	A conference exploring the application of printed electronics. ... Leading Edge Analysis, Industry Progress, Investment Opportunities and Routes to Market.
+photoVoltPrintElecFund	13	link	https://www.idtechex.com/printedelectronicsusa08/
+photoVoltPrintElecFund	14	title	Phase I Final Report (PDF)
+photoVoltPrintElecFund	14	snippet	Sep 30, 2012 ... Then an overview of the general field of printed electronics is provided, .... Similarly, the European Union is funding over the next three years the Smart ... Photovoltaic: PV is one of the largest investment areas for printed...
+photoVoltPrintElecFund	14	link	http://www.nasa.gov/pdf/716074main_Short_2011_PhI_Printable_Spacecraft.pdf
+photoVoltPrintElecFund	15	title	Oryon Technologies Announces Strategic Investment By EFL Tech ...
+photoVoltPrintElecFund	15	snippet	Jan 23, 2014 ... Oryon Technologies Announces Strategic Investment By EFL Tech For ... and licensor of printed electronics based on electroluminescent (EL), electrochromic ( EC) and transparent organic photovoltaic (TOPV) ... Additional shares of Oryon stock will be issued to EFL Tech as further funding is received by...
+photoVoltPrintElecFund	15	link	http://www.oryontech.com/news/news_releases/2014/01/oryon-technologies-announces-strategic-investment-by-efl-tech-for-global-el-business-expansion
+photoVoltPrintElecFund	16	title	PV Nano Cell Announces Further Expansion into the U.S. Market ...
+photoVoltPrintElecFund	16	snippet	May 28, 2015 ... PVN's Sicrys family of innovative, nanometric conductive inks is expected to speed the adoption of printed electronics (PE), which can bring...
+photoVoltPrintElecFund	16	link	http://www.prnewswire.com/news-releases/pv-nano-cell-announces-further-expansion-into-the-us-market-300090025.html
+photoVoltPrintElecFund	17	title	Printed Electronics Venture Funding Tops $7.5 Billion; Islands of ...
+photoVoltPrintElecFund	17	snippet	Jan 15, 2013 ... Printed Electronics Venture Funding Tops $7.5 Billion; Islands of Opportunities ... but lopsided investment has left key technologies and exciting Asian start-ups short of ... While there are areas such as organic photovoltaics that are ... Dow Chemical, Samsung, and Intel lead corporate venture capital (CVC)...
+photoVoltPrintElecFund	17	link	http://www.luxresearchinc.com/news-and-events/press-releases/read/printed-electronics-venture-funding-tops-75-billion-islands
+photoVoltPrintElecFund	18	title	PV Nano Cell To Exhibit Its Innovative Sicrys Ink... -- MUNICH and ...
+photoVoltPrintElecFund	18	snippet	Mar 2, 2015 ... "The printed electronics field is helping to bring electronics to every aspect of our daily lives, from wearable, customized and flexible electronics...
+photoVoltPrintElecFund	18	link	http://www.prnewswire.com/news-releases/pv-nano-cell-to-exhibit-its-innovative-sicrys-ink-technology-at-lopec-2015-in-munich-germany-300043283.html
+photoVoltPrintElecFund	19	title	Who should attend | Printed Electronics Summit Moving From The ...
+photoVoltPrintElecFund	19	snippet	The photovoltaic market is a huge opportunity for printed electronics, growing ... Investment and Finance Secure funding for that next stage in development of...
+photoVoltPrintElecFund	19	link	http://www.printedelectronicsfutures.com/printed-electronics-summit/who-should-attend.shtml
+photoVoltPrintElecFund	20	title	Photovoltaics - The Independent Global Source for the Flexible and ...
+photoVoltPrintElecFund	20	snippet	Photovoltaics - ... Conductive Inks Drive Growth in Flexible and Printed Electronics. Estimated at ... Venture Capital Flows to Flexible and Printed Electronics...
+photoVoltPrintElecFund	20	link	http://www.printedelectronicsnow.com/printed-electronics/photovoltaics
+photoVoltPrintElecFund	21	title	The Flexible Electronics Opportunity
+photoVoltPrintElecFund	21	snippet	This report reviews the goals, concept, structure, operation, funding levels, and ... universities, and government to achieve the critical levels of investment and the ... that aggregated funding for printed electronics from U.S. various government .... Electronics Center signage, PV, automotive sensors SKor Korea Institute of PV,...
+photoVoltPrintElecFund	21	link	http://www.nap.edu/openbook.php?record_id=18812&page=59
+photoVoltPrintElecFund	22	title	PV Nano Cell Has Completed a $3.5m Funding Round -- TEL AVIV ...
+photoVoltPrintElecFund	22	snippet	Aug 22, 2013 ... PV Nano Cell Ltd., which develops and manufactures innovative nano metric ... solar cells and for Printed Electronics, reports having completed a funding round ... Karat program, Slobel (Belgium), and Terra VP venture capital fund. ... and Hi- tech parks attract investment nurturing innovation and quickening...
+photoVoltPrintElecFund	22	link	http://www.prnewswire.co.uk/news-releases/pv-nano-cell-has-completed-a-35m-funding-round-220597611.html
+photoVoltPrintElecFund	23	title	FlexTech Alliance Funded Project with Henkel Corporation and ...
+photoVoltPrintElecFund	23	snippet	Nov 28, 2011 ... ... Center Paves Path to Commercialization of Flexible Displays and Photovoltaics ... adhesives will reduce future fabrication and capital investment costs ... on developing the electronic display and flexible, printed electronics...
+photoVoltPrintElecFund	23	link	http://flextech.org/flextech-alliance-funded-project-with-henkel-corporation-and-flexible-display-center-paves-path-to-commercialization-of-flexible-displays-and-photovoltaics/
+photoVoltPrintElecFund	24	title	Printed and Organic Electronics in Germany
+photoVoltPrintElecFund	24	snippet	sibilities of printed electronics and their potential product applications. ... The products developed by the printed electronics industry represent cutting edge ... tu rer. Heliatek. Organic Photovoltaics. 33 ... trade and inward investment agency of.
+photoVoltPrintElecFund	24	link	http://www.gtai.de/GTAI/Content/EN/Invest/_SharedDocs/Downloads/GTAI/Info-sheets/Electronics/info-sheet-printed-electronics-en.pdf
+photoVoltPrintElecFund	25	title	PV Nano Cell | CrunchBase
+photoVoltPrintElecFund	25	snippet	PV Nano Cell develops nano-metric materials for printed electronics and the solar photovoltaic industry.
+photoVoltPrintElecFund	25	link	https://www.crunchbase.com/organization/pv-nano-cell
+photoVoltPrintElecFund	26	title	Electronics | Grow Colorado Business
+photoVoltPrintElecFund	26	snippet	... and manufacturing of photovoltaics, printed electronics, nanotechnology and ... to collaborate on R&D projects; and pursue research funding or investment...
+photoVoltPrintElecFund	26	link	http://growcobusiness.com/co-industries/electronics/
+photoVoltPrintElecFund	27	title	Research In Copper Metallization Aims To Reduce PV ...
+photoVoltPrintElecFund	27	snippet	Current research is attempting to make copper valuable in photovoltaic systems. ... ink formulations for printed electronics applications, including photovoltaic modules. ... In September, Intrinsiq Materials closed $4.1 million in funding from the...
+photoVoltPrintElecFund	27	link	http://www.solarindustrymag.com/issues/SI1310/FEAT_05_Research-In-Copper-Metallization-Aims-To-Reduce-PV-Manufacturing-Costs.html
+photoVoltPrintElecFund	28	title	Techtera, the competitiveness cluster of geotextiles in Rhne Alpes
+photoVoltPrintElecFund	28	snippet	3 applications are targeted, namely: technical textiles, photovoltaic cells and ... posters, signs, lighting, OLEDs, photovoltaic panels, printed electronics, etc. ... Funding: State and local government (Saint-Etienne, General Council of the Loire ).
+photoVoltPrintElecFund	28	link	http://www.techtera.co.uk/innovation/geotextiles?menu=150
+photoVoltPrintElecFund	29	title	CSEM - Printed Electronics
+photoVoltPrintElecFund	29	snippet	Solution processed (organic, hybrid) photovoltaics ... Thanks for funding and support from projects & partners ... COLAE ( commercialize printed electronics).
+photoVoltPrintElecFund	29	link	http://www.swissolar.ch/fileadmin/user_upload/Tagungen/PV-Tagung_14/5.3_Printable_Photovoltaics_at_CSEM_G_Nisato.pdf
+photoVoltPrintElecFund	30	title	Publishable Summary Metrology for highly-parallel manufacturing
+photoVoltPrintElecFund	30	snippet	such as printed electronics, flexible photovoltaics and smart packaging, which have ... to have a lasting impact on the EU economy, if underpinned by investment.
+photoVoltPrintElecFund	30	link	https://www.euramet.org/get/?tx_stag_base%5Bfile%5D=21592&tx_stag_base%5Bidentifier%5D=%252Fdocs%252FEMRP%252FJRP%252FJRP_Summaries_2014%252FIndustry%252F14IND09_Publishable_JRP_Summary.pdf&tx_stag_base%5Baction%5D=downloadRaw&tx_stag_base%5Bcontroller%5D=Base
