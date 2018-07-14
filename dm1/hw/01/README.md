@@ -30,3 +30,8 @@ pip reqs: https://stackoverflow.com/a/31684470
 
 
 https://conda.io/docs/user-guide/tasks/manage-environments.html
+
+google custom search engine key
+https://developers.google.com/custom-search/json-api/v1/overview
+
+https://support.google.com/googleapi/answer/6158849
