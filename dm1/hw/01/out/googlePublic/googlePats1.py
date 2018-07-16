@@ -16,7 +16,7 @@ wdir = 'C:\google'
 config = {}
 execfile("config.py", config)
 
- = config["GdevKey"]
+devKey = config["GdevKey"]
 devcx = config["patdevcx"]
 
 def removeNonAscii(s): return "".join(i for i in s if ord(i)<128)

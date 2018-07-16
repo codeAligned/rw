@@ -1,0 +1,8 @@
+pycrypto==2.6.1
+pyOpenSSL==18.0.0
+ca_certs_locater==1.0
+Django==1.11.14
+python_gflags==3.1.2
+protobuf==3.6.0
+keyring==13.2.1
+simplejson==3.16.0
