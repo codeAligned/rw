@@ -119,6 +119,33 @@ followed by
 
     pip install -r requirements.txt
 
+Unzipped file from Dr. Brietzman and installed in directory.
+Still got this error:
+(Python2) C:\Users\user\My Documents\ds\rw\dm1\hw\01\out\googlePublic>pip install httplib2
+Requirement already satisfied: httplib2 in c:\users\user\anaconda3\envs\python2\lib\site-packages (0.11.3)
+
+(Python2) C:\Users\user\My Documents\ds\rw\dm1\hw\01\out\googlePublic>python googlePR1.py photoVoltPrintElecPR "photovoltaic \"printed electronics\""
+Traceback (most recent call last):
+  File "googlePR1.py", line 112, in <module>
+    main()
+  File "googlePR1.py", line 49, in main
+    developerKey=devKey)
+  File "C:\Users\user\My Documents\ds\rw\dm1\hw\01\out\googlePublic\oauth2client\util.py", line 128, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "C:\Users\user\My Documents\ds\rw\dm1\hw\01\out\googlePublic\apiclient\discovery.py", line 192, in build
+    resp, content = http.request(requested_url)
+  File "C:\Users\user\My Documents\ds\rw\dm1\hw\01\out\googlePublic\httplib2\__init__.py", line 1694, in request
+    (response, content) = self._request(conn, authority, uri, request_uri, method, body, headers, redirections, cachekey)
+  File "C:\Users\user\My Documents\ds\rw\dm1\hw\01\out\googlePublic\httplib2\__init__.py", line 1434, in _request
+    (response, content) = self._conn_request(conn, request_uri, method, body, headers)
+  File "C:\Users\user\My Documents\ds\rw\dm1\hw\01\out\googlePublic\httplib2\__init__.py", line 1354, in _conn_request
+    conn.connect()
+  File "C:\Users\user\My Documents\ds\rw\dm1\hw\01\out\googlePublic\httplib2\__init__.py", line 1127, in connect
+    raise SSLHandshakeError(e)
+httplib2.SSLHandshakeError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:590)
+
+
+
 ## Twitter Part
 
 Refer to [twitter_ron](./out/twitter_ron/README.md) project for twitter part.
@@ -130,3 +157,5 @@ This part was **not** completed with
 # https://python-twitter.readthedocs.io/en/latest/
 
 Rather, it was completed with the straight *requests* library.
+
+https://colab.research.google.com/
