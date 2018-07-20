@@ -1,0 +1,94 @@
+fileName	Record	FieldHeading	Data
+hydrinoProcessPR	0	SearchTerms	hydrino process "Press Release" OR "News Release"
+hydrinoProcessPR	0	Results	514
+hydrinoProcessPR	0	TimeStamp	2018-07-19 21:33:23
+hydrinoProcessPR	1	title	News Release July 11, 2016 | Brilliant Light Power
+hydrinoProcessPR	1	snippet	Jul 11, 2016 ... Details of the SunCell, the BlackLight Process, the video and slide presentation ... Hydrino: Hydrinos are a new form of hydrogen theoretically...
+hydrinoProcessPR	1	link	https://brilliantlightpower.com/news-release-july-11-2016/
+hydrinoProcessPR	2	title	The Latest Update in the Hydrino Saga | Good Math Bad Math
+hydrinoProcessPR	2	snippet	Jan 14, 2014 ... The Financial Post just printed it in their online press-release section. ... Mills has some bullshit process where he spikes his generator with...
+hydrinoProcessPR	2	link	http://goodmath.scientopia.org/2014/01/14/the-latest-update-in-the-hydrino-saga/
+hydrinoProcessPR	3	title	Brilliant Light Power
+hydrinoProcessPR	3	snippet	Validation: 071116 Press Release Advisory Board: 121316 Press Release ... Dr. Mills shared his vision for alternative, Hydrino derived energy and presented...
+hydrinoProcessPR	3	link	https://brilliantlightpower.com/
+hydrinoProcessPR	4	title	energy - Have the Rowan University "hydrino" findings been ...
+hydrinoProcessPR	4	snippet	I am highly skeptical of this result, primarily because the theories promoted by Black Light Power are improbable to the point of being gibberish.
+hydrinoProcessPR	4	link	https://physics.stackexchange.com/questions/2392/have-the-rowan-university-hydrino-findings-been-replicated-elsewhere
+hydrinoProcessPR	5	title	Hydrinos A Pie In The Sky Clean Energy? | EarthTechling
+hydrinoProcessPR	5	snippet	Dec 2, 2010 ... Blacklight Power, Catalyst Induced Hydrino Transition process ... Well, here's the first paragraph of a press release the company put out this...
+hydrinoProcessPR	5	link	http://earthtechling.com/2010/12/hydrinos-a-pie-in-the-sky-clean-energy/
+hydrinoProcessPR	6	title	Blacklight Power: What on Earth? | In the Pipeline
+hydrinoProcessPR	6	snippet	Oct 22, 2008 ... BLP claims that converting a hydrogen atom to a hydrino is an exothermic reaction (really .... Mills claims that his process will power a medium-size city with the water from a garden hose. .... Recent press release is amazing
+hydrinoProcessPR	6	link	http://blogs.sciencemag.org/pipeline/archives/2008/10/22/blacklight_power_what_on_earth
+hydrinoProcessPR	7	title	Blacklight Power and Hydrinos
+hydrinoProcessPR	7	snippet	Nov 7, 2005 ... So it seems to me that Mills and his hydrinos match the familiar ... it be nice to not have to use oil to power your car and in the process pollute the air? ..... The world breathlessly awaits the press release announcing that Utility Z...
+hydrinoProcessPR	7	link	http://hoaxes.org/weblog/comments/blacklight_power_and_hydrinos
+hydrinoProcessPR	8	title	Is Time Running Out for CPV Startup Semprius? | Greentech Media
+hydrinoProcessPR	8	snippet	Jan 3, 2017 ... The company is in the process of paying those funds back to the county." Semprius will have other incentives being clawed back in 2017.
+hydrinoProcessPR	8	link	https://www.greentechmedia.com/articles/read/time-running-out-for-cpv-startup-semprius
+hydrinoProcessPR	9	title	A clean global energy solution | Using a new discovery about ...
+hydrinoProcessPR	9	snippet	Hydrino power superior to nuclear energy? ... So he set out to try to invent such a process and indeed was able to develop a method to prompt the ... See Press Release. ..... Source: http://brilliantlightpower.com/news-release-july-11-2016/...
+hydrinoProcessPR	9	link	https://hydrogenicpower.wordpress.com/
+hydrinoProcessPR	10	title	HydrinoPower.com - Hydrino power news and commentary
+hydrinoProcessPR	10	snippet	Quanta magazine published an interactive infographic last August showing all the leading theories in a map grouped around which physics problems they...
+hydrinoProcessPR	10	link	http://hydrinopower.com/
+hydrinoProcessPR	11	title	Metallic hydrogen, once theory, becomes reality
+hydrinoProcessPR	11	snippet	Jan 26, 2017 ... The solution, he said, was to use a reactive ion etching process to shave a tiny layer - just five microns thick, or about one-tenth of a human hair...
+hydrinoProcessPR	11	link	https://phys.org/news/2017-01-metallic-hydrogen-theory-reality.html
+hydrinoProcessPR	12	title	Not snake oil anymore - Business Line
+hydrinoProcessPR	12	snippet	Feb 14, 2017 ... With a number of experiments like 'hydrino' and cold fusion forging ahead, ... atom can be nudged closer to the proton, and release energy in the process. ... A July 2016 press release of Brilliant Light Power gives validating...
+hydrinoProcessPR	12	link	https://www.thehindubusinessline.com/specials/clean-tech/not-snake-oil-anymore/article9543129.ece
+hydrinoProcessPR	13	title	Dr. Randell Mills and Blacklight Power
+hydrinoProcessPR	13	snippet	Parks likened the process to "a perpetual motion machine. ... most important part of Mills' discovery is the production of new forms of hydrogen (Mills' hydrinos). ... This special news release was prepared by Hal Fox, for New Energy News, the...
+hydrinoProcessPR	13	link	http://www.cheniere.org/misc/mills.htm
+hydrinoProcessPR	14	title	Blacklight Power Demonstration - HydrinoPower.com
+hydrinoProcessPR	14	snippet	Jan 21, 2014 ... Blacklight Power has issued a press release to schedule a demonstration next Tuesday January 28th, 2014, of their process to produce...
+hydrinoProcessPR	14	link	http://hydrinopower.com/?p=1
+hydrinoProcessPR	15	title	Electricity generated from water: Major breakthrough in clean Free ...
+hydrinoProcessPR	15	snippet	May 30, 2012 ... The Process is fueled by water vapor that is a gaseous component of air .... Dr. Mills' theory of energy release resulting from Hydrino formation.
+hydrinoProcessPR	15	link	https://watchers.news/2012/05/30/electricity-generated-from-water-major-breakthrough-in-clean-free-energy-confirmed/
+hydrinoProcessPR	16	title	Brilliant Light Power Presentation on 6 December 2016 in ...
+hydrinoProcessPR	16	snippet	Dec 8, 2016 ... The explosive conversion to hydrinos had to be repeated 1000 times per second to produce continuous power; the catalyst used in the .... He said 'the ignition can be switched off' and the process continues. .... Press Release
+hydrinoProcessPR	16	link	http://e-catworld.com/2016/12/08/brilliant-light-power-presentation-on-6-december-2016-in-washington-dc-tom-whipple/
+hydrinoProcessPR	17	title	LENR | AN IMPOSSIBLE INVENTION
+hydrinoProcessPR	17	snippet	The equipment of the customer measured 20 x 3 x 3 meters, and the process was ..... I have to comment the press release of IH, being a press release and not a .... akin to Randell Mills (CEO, founder of BLP) concept of hydrino, or Swedish...
+hydrinoProcessPR	17	link	https://animpossibleinvention.com/tag/lenr/
+hydrinoProcessPR	18	title	Brilliant Light Power Update, Q1 2018 | E-Cat World
+hydrinoProcessPR	18	snippet	Feb 7, 2018 ... One goal is to prove our power source to the world in the near term through power measurements, identification of the hydrino products of the...
+hydrinoProcessPR	18	link	https://e-catworld.com/2018/02/07/brilliant-light-power-update-q1-2018/
+hydrinoProcessPR	19	title	New Energy Times Issue #29
+hydrinoProcessPR	19	snippet	Jul 10, 2008 ... He titled the first "Cold Fusion," referring to processes involving light elements ... reproductions of the official APS press release and the abstracts of the talks ...... The hydrino "molecule" consists of two bound hydrinos with an...
+hydrinoProcessPR	19	link	http://newenergytimes.com/v2/news/2008/NET29-8dd54geg.shtml
+hydrinoProcessPR	20	title	December | 2011 | Good Math/Bad Math
+hydrinoProcessPR	20	snippet	Dec 30, 2011 ... What makes hydrinos interesting as a piece of crankery is that there's a lot ... atoms could shrink, and release lots of energy in the process. ... Press release from 2009, claiming commercialization within 1 year to 18 months.
+hydrinoProcessPR	20	link	http://www.goodmath.org/blog/2011/12/
+hydrinoProcessPR	21	title	E-Cat World / LENR / Cold Fusion | Michael Z Freeman
+hydrinoProcessPR	21	snippet	... nuclear fission. Here's a DOE press release from July 5, 2018 about the project : .... For further information about this News Release, please contact: Grant Draper ... The stimulation process produces LENR reactions, which generates heat.
+hydrinoProcessPR	21	link	http://michaelzfreeman.org/aggregator/sources/13
+hydrinoProcessPR	22	title	Randell L. Mills A Living Legend, Greater Than Einstein and Tesla ...
+hydrinoProcessPR	22	snippet	Jul 12, 2016 ... The BLP process,discovered by Randy Mills, is said to coax hydrogen atoms into a state below the ground state, called the hydrino. .... You can read the latest press release from Brilliant Light Power here, and watch the...
+hydrinoProcessPR	22	link	https://www.libertariannews.org/2016/07/12/randell-l-mills-a-living-legend-greater-than-einstein-and-tesla-combined/
+hydrinoProcessPR	23	title	new illuminati: Blacklight Power (Inc): New Clean Commercial ...
+hydrinoProcessPR	23	snippet	Jun 2, 2011 ... NEWS RELEASE .... Hydrinos are produced during the BlackLight Process as energy is released from the hydrogen atom as the electron...
+hydrinoProcessPR	23	link	http://nexusilluminati.blogspot.com/2011/06/blacklight-power-inc-new-clean.html
+hydrinoProcessPR	24	title	What Matters about Dark Matter? Starts With A Bang
+hydrinoProcessPR	24	snippet	Apr 10, 2013 ... There is an explanation for what makes up the dark matter hydrinos ... that the superconductivity of gravitation ought to be a real physical process occurring in the outskirts of galaxies. ..... The press release.. is misleading.
+hydrinoProcessPR	24	link	http://scienceblogs.com/startswithabang/2013/04/10/what-matters-about-dark-matter/
+hydrinoProcessPR	25	title	Randell MILLS : SunCell ~ Brilliant Light Power articles, videos ...
+hydrinoProcessPR	25	snippet	The electrochemical power system for forming hydrinos and electricity can farther ..... "Unlike most schemes for free energy, the hydrino process of Randy Mills is not .... First of all, folks, this isn't an article, it's a press release from Blacklight.
+hydrinoProcessPR	25	link	http://rexresearch.com/millsbrillight/mills.html
+hydrinoProcessPR	26	title	The scalar wave electromagnetic electron and cold fusion ...
+hydrinoProcessPR	26	snippet	It also means, that Dr. Mills hydrino theory is not downright wrong - but merely incomplete description of the reality of BLP process and patents.
+hydrinoProcessPR	26	link	https://www.reddit.com/r/Physics_AWT/comments/7rpnf0/the_scalar_wave_electromagnetic_electron_and_cold/
+hydrinoProcessPR	27	title	102 Electrical Energy Innovations
+hydrinoProcessPR	27	snippet	Apr 8, 2014 ... BlackLight Power's Hydrino Generator BlackLight Power, Inc., .... Reverse the process, and the battery can store electricity at a cost of ...... A copy of the press release follows, along with a link to a summary of the proposal.
+hydrinoProcessPR	27	link	http://www.padrak.com/vesperman/102_Electrical_Energy_Innovations_7.25.14.pdf
+hydrinoProcessPR	28	title	Audit exposes fake science of climate change | The National ...
+hydrinoProcessPR	28	snippet	Jul 30, 2012 ... The IPCC has no formal process or criteria for selecting authors and no ...... http ://wattsupwiththat.com/2012/07/29/press-release-2/.
+hydrinoProcessPR	28	link	https://www.nbr.co.nz/article/audit-exposes-fake-science-climate-change-ck-124664
+hydrinoProcessPR	29	title	JOURNAL OF CONDENSED MATTER NUCLEAR SCIENCE
+hydrinoProcessPR	29	snippet	all, detection of nuclear radiation is impossible if it is a special reaction process in .... did challenging research after the famous press release of Fleischman and.
+hydrinoProcessPR	29	link	http://lenr-canr.org/acrobat/BiberianJPjcondensedw.pdf
+hydrinoProcessPR	30	title	ECAThome | All about ECAT
+hydrinoProcessPR	30	snippet	The following is a press release from Brillouin Energy. ... For further information about this News Release, please contact: Grant Draper Grant@CapstreamX.com ... The stimulation process produces LENR reactions, which generates heat.
+hydrinoProcessPR	30	link	http://www.ecathome.eu/

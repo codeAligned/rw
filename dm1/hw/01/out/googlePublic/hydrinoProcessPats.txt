@@ -1,0 +1,82 @@
+fileName	Record	FieldHeading	Data
+hydrinoProcessPats	0	SearchTerms	hydrino process
+hydrinoProcessPats	0	Results	586
+hydrinoProcessPats	0	TimeStamp	2018-07-19 21:33:22
+hydrinoProcessPats	1	title	US20050202173A1 - Diamond synthesis - Google Patents
+hydrinoProcessPats	1	snippet	Once catalysis begins, hydrinos autocatalyze further in a process called disproportionation. This mechanism is similar to that of an inorganic ion catalysis.
+hydrinoProcessPats	1	link	https://www.google.com/patents/US20050202173
+hydrinoProcessPats	2	title	EP2852995A2 - Ciht power system - Google Patents
+hydrinoProcessPats	2	snippet	Once catalysis begins, hydrinos autocatalyze further in a process called disproportionation wherein H or H(l/p) serves as the catalyst for another H or H(l/ p') (p...
+hydrinoProcessPats	2	link	https://www.google.com/patents/EP2852995A2
+hydrinoProcessPats	3	title	US20120120980A1 - Molecular hydrino laser - Google Patents
+hydrinoProcessPats	3	snippet	Aug 5, 2009 ... Hydrinos are formed by reacting an ordinary hydrogen atom with a ...... Once catalysis begins, hydrinos autocatalyze further in a process called...
+hydrinoProcessPats	3	link	https://www.google.com/patents/US20120120980
+hydrinoProcessPats	4	title	EP2702623A1 - H20 - based electrochemical hydrogen - catalyst ...
+hydrinoProcessPats	4	snippet	Once catalysis begins, hydrinos autocatalyze further in a process called disproportionation. This mechanism is similar to that of an inorganic ion catalysis.
+hydrinoProcessPats	4	link	https://www.google.com/patents/EP2702623A1
+hydrinoProcessPats	5	title	WO2011116236A3 - Electrochemical hydrogen-catalyst power ...
+hydrinoProcessPats	5	snippet	The electrochemical power system for forming hydrinos and electricity can farther ... reactants that constitute hydrino reactants during cell operation with separate ... Allied Corporation Low-energy process for separation of hydrogen isotopes.
+hydrinoProcessPats	5	link	https://www.google.com/patents/WO2011116236A3?cl=en
+hydrinoProcessPats	6	title	US7689367B2 - Method and system of computing and rendering the ...
+hydrinoProcessPats	6	snippet	G06F19/704 Chemoinformatics, i.e. data processing methods or systems for the ...... The hydrino states given in the Hydrino TheoryBlackLight Process section ...
+hydrinoProcessPats	6	link	https://www.google.com/patents/US7689367
+hydrinoProcessPats	7	title	WO2010014684A8 - Heterogeneous hydrogen-catalyst reactor ...
+hydrinoProcessPats	7	snippet	... a source of catalyst or atomic hydrogen to support the hydrino catalyst reaction, ... L Plasma reactor and process for producing lower-energy hydrogen species.
+hydrinoProcessPats	7	link	https://www.google.com/patents/WO2010014684A8
+hydrinoProcessPats	8	title	US20160290223A1 - Power generation systems and methods ...
+hydrinoProcessPats	8	snippet	Nov 20, 2013 ... By balancing a single piston or using multiple pistons, the process can ...... In the case of the catalysis of hydrino atoms to lower energy states,...
+hydrinoProcessPats	8	link	https://www.google.com/patents/US20160290223
+hydrinoProcessPats	9	title	WO2011116236A2 - Electrochemical hydrogen-catalyst power ...
+hydrinoProcessPats	9	snippet	Once catalysis begins, hydrinos autocatalyze further in a process called disproportionation. This mechanism is similar to that of an inorganic ion catalysis.
+hydrinoProcessPats	9	link	https://www.google.com/patents/WO2011116236A2
+hydrinoProcessPats	10	title	CN102906925A - Electrochemical hydrogen-catalyst power system ...
+hydrinoProcessPats	10	snippet	Due to oxidation-reduction cell half reactions, the hydrino-producing reaction ... i.e. further into the hydrogen fraction in a process called disproportionation of.
+hydrinoProcessPats	10	link	https://www.google.com/patents/CN102906925A?cl=en
+hydrinoProcessPats	11	title	WO2000007931A2 - Inorganic hydrogen and hydrogen polymer ...
+hydrinoProcessPats	11	snippet	2 3 3 4 4 5 J begins, hydrinos autocatalyze further in a process called di sproportionation . This mechanism is similar to that of an inorganic ion catalysis.
+hydrinoProcessPats	11	link	https://www.google.com/patents/WO2000007931A2
+hydrinoProcessPats	12	title	CA2320597A1 - Ion cyclotron power converter and radio and ...
+hydrinoProcessPats	12	snippet	Once catalysis begins, hydrinos autocatalyze further in a process called disproportionation. This mechanism is similar to that of an inorganic ion catalysis.
+hydrinoProcessPats	12	link	https://www.google.com/patents/CA2320597A1
+hydrinoProcessPats	13	title	US20090146083A1 - Hydrogen catalysis - Google Patents
+hydrinoProcessPats	13	snippet	Mar 23, 2000 ... Once catalysis begins, hydrinos autocatalyze further in a process called disproportionation. This mechanism is similar to that of an inorganic ion...
+hydrinoProcessPats	13	link	https://www.google.com/patents/US20090146083
+hydrinoProcessPats	14	title	WO2017127447A1 - Thermophotovoltaic electrical power generator ...
+hydrinoProcessPats	14	snippet	Jan 19, 2016 ... ... "Catalyst Induced Hydrino Transition (CIHT) Electrochemical Cell", ... US20060188433A1 2006-08-24 Metal-oxide based process for the...
+hydrinoProcessPats	14	link	https://www.google.com/patents/WO2017127447A1?cl=ko
+hydrinoProcessPats	15	title	US20090130016A1 - Doped thermionic cathode and method of ...
+hydrinoProcessPats	15	snippet	Once catalysis begins, hydrinos autocatalyze further in a process called disproportionation. This mechanism is similar to that of an inorganic ion catalysis.
+hydrinoProcessPats	15	link	https://www.google.com/patents/US20090130016
+hydrinoProcessPats	16	title	US20080034287A1 - Method and System of Computing and ...
+hydrinoProcessPats	16	snippet	May 17, 2004 ... G06F19/704 Chemoinformatics, i.e. data processing methods or ...... The hydrino states given in the Hydrino TheoryBlackLight Process...
+hydrinoProcessPats	16	link	https://www.google.com/patents/US20080034287
+hydrinoProcessPats	17	title	WO2015184252A9 - Electrical power generation systems and ...
+hydrinoProcessPats	17	snippet	begins, hydrinos autocatalyze further in a process called disproportionadon wherein H or (1/) serves as the catalyst for another H or Hi i p 5) (p may equal p ").
+hydrinoProcessPats	17	link	https://www.google.com/patents/WO2015184252A9?cl=en
+hydrinoProcessPats	18	title	WO2010014684A2 - Racteur hydrogne-catalyseur htrogne ...
+hydrinoProcessPats	18	snippet	... ou d'hydrogne atomique pour soutenir la raction de catalyseur d'hydrino; (iii) ... L Plasma reactor and process for producing lower-energy hydrogen species.
+hydrinoProcessPats	18	link	https://www.google.com/patents/WO2010014684A2?cl=fr
+hydrinoProcessPats	19	title	WO2014025443A2 - Ciht power system - Google Patents
+hydrinoProcessPats	19	snippet	US4459187A * 1979-05-29 1984-07-10 Snamprogetti, S.P.A. Process for storing ... R. L. MILLS; Y. LU: "Hydrino continuum transitions with cutoffs at 22.8 nm and...
+hydrinoProcessPats	19	link	https://www.google.com/patents/WO2014025443A2?cl=nl
+hydrinoProcessPats	20	title	WO2014025443A3 - Ciht power system - Google Patents
+hydrinoProcessPats	20	snippet	US4459187A * 1979-05-29 1984-07-10 Snamprogetti, S.P.A. Process for storing and producing ... A VIJH: "Hydrino atom: novel chemistry or invalid physics?
+hydrinoProcessPats	20	link	https://www.google.com/patents/WO2014025443A3?cl=zh
+hydrinoProcessPats	21	title	US20090098421A1 - Hydrogen-Catalyst Reactor - Google Patents
+hydrinoProcessPats	21	snippet	... meet the catalyst criteriona chemical or physical process with an enthalpy ... Hydrinos. [0005]. A hydrogen atom having a binding energy given by. [0000].
+hydrinoProcessPats	21	link	http://www.google.com/patents/US20090098421
+hydrinoProcessPats	22	title	US20160322776A1 - Co2-n2-he gas dynamic laser - Google Patents
+hydrinoProcessPats	22	snippet	US20120120980A1 * 2009-08-05 2012-05-17 Mills Randell L Molecular hydrino laser ... US4099140A 1978-07-04 Chemical laser process and apparatus.
+hydrinoProcessPats	22	link	https://www.google.com/patents/US20160322776
+hydrinoProcessPats	23	title	CA2673847A1 - System and method of computing and rendering ...
+hydrinoProcessPats	23	snippet	G06F19/701 Chemoinformatics, i.e. data processing methods or systems for the ..... Hydrino States", in press, http://www.blacklightpower.com/techpapers.shtml.
+hydrinoProcessPats	23	link	https://www.google.com/patents/CA2673847A1?cl=en
+hydrinoProcessPats	24	title	CN100575246C - - Google Patents
+hydrinoProcessPats	24	snippet	... Plasma Chemistry and Plasma Processing; R.Mills J. Dong Y. Lu" Observation of .... l)hydrino hydrino
+hydrinoProcessPats	24	link	https://www.google.com/patents/CN100575246C
+hydrinoProcessPats	25	title	CN104521046A - Ciht- Google Patents
+hydrinoProcessPats	25	snippet	A.K.VIJH: "Hydrino atom: novel chemistry or invalid physics? ... US6649304B2 2003-11-18 Nickel-series rechargeable battery and process for the production...
+hydrinoProcessPats	25	link	https://www.google.com/patents/CN104521046A?cl=zh
+hydrinoProcessPats	26	title	CN103460469A - - Google Patents
+hydrinoProcessPats	26	snippet	... (hydrino) ...... (Haber process)(Ostwald process))
+hydrinoProcessPats	26	link	https://www.google.com/patents/CN103460469A

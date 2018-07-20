@@ -144,6 +144,15 @@ Traceback (most recent call last):
     raise SSLHandshakeError(e)
 httplib2.SSLHandshakeError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:590)
 
+Make fresh install under python2 anaconda environment.
+conda install simplejson
+conda install six
+
+Created google developer api key via:
+https://console.developers.google.com/apis/dashboard?project=rw-dm1&duration=PT1H
+
+Created custom search engines via:
+https://cse.google.com/cse/all
 
 
 ## Twitter Part

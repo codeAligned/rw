@@ -1,0 +1,37 @@
+fileName	Record	FieldHeading	Data
+hydrinoProcessLinkedIn	0	SearchTerms	hydrino process
+hydrinoProcessLinkedIn	0	Results	59
+hydrinoProcessLinkedIn	0	TimeStamp	2018-07-19 21:33:20
+hydrinoProcessLinkedIn	1	title	Brilliant Light Power; Inc | LinkedIn
+hydrinoProcessLinkedIn	1	snippet	It is based on a new chemical process of releasing the latent energy of the ... with the formation of a prior undiscovered form of hydrogen called "hydrino.
+hydrinoProcessLinkedIn	1	link	https://www.linkedin.com/company/brilliantlightpowerinc
+hydrinoProcessLinkedIn	2	title	Brilliant Light Power; Inc | LinkedIn
+hydrinoProcessLinkedIn	2	snippet	It is based on a new chemical process of releasing the latent energy of the ... of power liberated by forming hydrinos is commercially feasible using simplistic and ...
+hydrinoProcessLinkedIn	2	link	https://ch.linkedin.com/company/brilliantlightpowerinc
+hydrinoProcessLinkedIn	3	title	Brilliant Light Power; Inc
+hydrinoProcessLinkedIn	3	snippet	It is based on a new chemical process of releasing the latent energy of the ... with the formation of a prior undiscovered form of hydrogen called "hydrino.
+hydrinoProcessLinkedIn	3	link	https://kr.linkedin.com/company/brilliantlightpowerinc
+hydrinoProcessLinkedIn	4	title	Thomas Berbaum - Contracts Manager, DXC Technology Managed ...
+hydrinoProcessLinkedIn	4	snippet	In order to undergo this process the hydrogen atom needs to collide with ... The hydrogen atom with the electron in these fractional states is called a hydrino.
+hydrinoProcessLinkedIn	4	link	https://www.linkedin.com/in/tberbaum
+hydrinoProcessLinkedIn	5	title	Paul Jenni - Business Intelligence Analyst - Blizzard Entertainment ...
+hydrinoProcessLinkedIn	5	snippet	Revised and homogenized Credit Department's Policy & Procedure Manual ... Physics Senior Seminar: "Debunking Mills' Hydrino Theory" - Tutored Math and...
+hydrinoProcessLinkedIn	5	link	https://www.linkedin.com/in/pauljenni
+hydrinoProcessLinkedIn	6	title	Youngmeen Eom - Quality Assurance Auditor | LinkedIn
+hydrinoProcessLinkedIn	6	snippet	Familiar with the implementation of quality program processes, such as corrective action / process improvement and the performance of inspection, testing, and...
+hydrinoProcessLinkedIn	6	link	https://ae.linkedin.com/in/youngmeen-eom-60a1bb1b
+hydrinoProcessLinkedIn	7	title	Pulse Directory by articles: Is Qualitative Dead? Here's a Story - Is ...
+hydrinoProcessLinkedIn	7	snippet	Yes, according to Randall Mills and his Hydrino quest Is Quantum Physics Bastard Science? Is Quartz the first non-crappy mobile news app? Is Quebec...
+hydrinoProcessLinkedIn	7	link	https://www.linkedin.com/directory/pulse-articles-i-79-24/
+hydrinoProcessLinkedIn	8	title	Paul Jenni - - |
+hydrinoProcessLinkedIn	8	snippet	Revised and homogenized Credit Department's Policy & Procedure Manual ... Physics Senior Seminar: "Debunking Mills' Hydrino Theory" - Tutored Math and...
+hydrinoProcessLinkedIn	8	link	https://www.linkedin.com/in/pauljenni/zh-cn
+hydrinoProcessLinkedIn	9	title	Tabea HIRZEL - Shareholder - Som Energia | LinkedIn
+hydrinoProcessLinkedIn	9	snippet	order processing and monitoring (inlc. search for suppliers) .... hopes for low cost energy as Blacklight proposes by mastering the hydrino [5,6] make the switch...
+hydrinoProcessLinkedIn	9	link	https://es.linkedin.com/in/tabeahirzel/en
+hydrinoProcessLinkedIn	10	title	Brilliant Light Power; Inc
+hydrinoProcessLinkedIn	10	snippet	It is based on a new chemical process of releasing the latent energy of the ... with the formation of a prior undiscovered form of hydrogen called "hydrino.
+hydrinoProcessLinkedIn	10	link	https://tw.linkedin.com/company/brilliantlightpowerinc
+hydrinoProcessLinkedIn	11	title	Tabea HIRZEL - Shareholder - Som Energia | LinkedIn
+hydrinoProcessLinkedIn	11	snippet	Banking relations: Processing Letter of Credits, negotiating respective .... with hopes for low cost energy as Blacklight proposes by mastering the hydrino [5,6]...
+hydrinoProcessLinkedIn	11	link	https://it.linkedin.com/in/tabeahirzel/it
