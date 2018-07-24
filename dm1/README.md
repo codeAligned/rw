@@ -6,7 +6,11 @@ rowan [canvas](https://rowan.instructure.com/courses/2378542)
 
 ## Requirements
 
+### Python
+
 - Python 2.7 (would prefer 3)
+
+### R / R Studio
 
 https://support.rstudio.com/hc/en-us/articles/201141096-Getting-Started-with-R
 
