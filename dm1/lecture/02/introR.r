@@ -40,7 +40,6 @@
 ## R ships with various primitive mathematical functions.
 sqrt(9)
 cos(pi)       # argument in radians
-log(1)        # natural log
 exp(1)
 log(exp(3))
 floor(3.5)
@@ -233,6 +232,7 @@ x > 3 | x == 1
 
 ## R also has character vectors (where elements of the vector are each
 ## strings). You can create strings with "" or ''.
+z='goodbye, cruel world'
 nchar(z)
 
 length("hello world")   ## Vector of length 1
@@ -258,7 +258,7 @@ deck
 deck[1]
 deck[c(1, 3, 2)]   # use numeric vectors for multiple index selection
 # Note the order of elements returned
-deck[c(1,2)]    # use negative numbers to specify indices to exclude
+deck[-c(1,2)]    # use negative numbers to specify indices to exclude
 
 deck[c(T, F, F, T, T)]    # (T = keep, F = exclude)
 deck[c(T, F)]             # NOTE: vector recycling
@@ -340,12 +340,8 @@ x
 ## we could also do with sapply or a loop, but we haven't talked about those yet
 
 ## 1a) Change the sign of every even number in x
-
-
-
-
-
-
+x[x %% 2 == 0] = -x[x %% 2 == 0]
+x
 
 ## 2) Take the dot product of x and y.
 x <- 1:100
@@ -358,8 +354,9 @@ sum(x * y)
 myName = "firstname, lastname"
 
 ## Choose compile report on the file menu to save this as a pdf.
-
-
+myName[1] = "hello"
+myName[2] = "there"
+c(myName)
 
 
 

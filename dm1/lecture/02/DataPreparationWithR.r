@@ -1,7 +1,7 @@
 
 getwd()
 
-setwd('C:\\Users\\abrei\\Desktop\\week2')
+setwd('C:\\Users\\AFMS\\r\\rn\\rw\\dm1\\lecture\\02')
 getwd()
 
 ## Read in a file
@@ -10,6 +10,12 @@ dim(mydata)
 ## 262 rows by 8 columns
 ## let's look at the first few rows
 head(mydata)
+
+mydata$cylinders
+
+mydata$brand
+
+head(list(cyl=mydata$cylinders,brand=mydata$brand))
 
 #let's get some summary data via aggregate
 aggregate(mydata$cylinders,list(cyl=mydata$cylinders,brand=mydata$brand),length)
@@ -105,6 +111,7 @@ tail(sort3)
 counts <- table(smallData$timeToSixtyZscore)
 barplot(counts,main="zero to sixty distribution2",xlab="# seconds zscore",ylab="# cars")
 
+counts
 
 #to deal with outliers, we can either try to estimate a proper value
 #we can ask the data provider for a better value, or we can delete
@@ -135,4 +142,7 @@ write.csv(newData, file = "carsFix2.csv",row.names=FALSE)
 
 #Exercise: Create a a subset data set consisting of the 6 cylinder cars called 
 #'sixSubset'
-
+sixSubset = subset(mydata, cylinders==6,)
+dim(sixSubset)
+dim(mydata)
+head(sixSubset)
