@@ -1,0 +1,92 @@
+---
+title: "Fun With R Markdown"
+author: "Ron Neely"
+date: "July 25, 2018"
+output: html_document
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Banner
+This is my first Markdown document. It will explore some basic features of R and R Markdown.  
+
+## Very Basic Operation
+
+R can be used for very basic operations such as addition.
+
+```{r}
+2+2
+```
+
+## Create a plot
+
+Let's load the airquality dataset and create a plot. Thank you to Roger Peng for his quick [video](https://www.youtube.com/watch?v=DNS7i2m4sB0) on using the airquality data set with R markdown as is done here.
+
+
+```{r}
+library(datasets)
+data(airquality)
+summary(airquality)
+```
+
+Here is a pairs plot of the data.
+
+```{r}
+pairs(airquality)
+```
+
+Here is a regression model of ozone on some predictors.
+
+```{r}
+fit <- lm(Ozone ~ Solar.R + Wind + Temp, data=airquality)
+summary(fit)
+```
+
+Finally, let's create a plot.
+
+```{r fit, echo=FALSE}
+plot(fit)
+```
+
+## Latex
+
+An alternative to Latex is to embed mathemetical formulas via inline html.  The inline html method is very limited and can work for items on a single line.  By example the univariate gradient descent algorithm is:
+&theta;<sub>j</sub> := &theta;<sub>j</sub> + &alpha; (&part;/&part;&theta;<sub>j</sub>) J(&theta;<sub>0</sub>,&theta;<sub>1</sub>, ... &theta;<sub>n</sub>).
+
+However Latex provides more capability, and can be easier to read.  By example the multivariate gradient descent algorithm is:
+
+\begin{align*}
+& \text{repeat until convergence:} \; \lbrace \newline \; & \theta_j := \theta_j - \alpha \frac{1}{m} \sum\limits_{i=1}^{m} (h_\theta(x^{(i)}) - y^{(i)}) \cdot x_j^{(i)} \; & \text{for j := 0...n}\newline \rbrace
+\end{align*}
+
+
+[Codecogs equation editor](https://www.codecogs.com/latex/eqneditor.php) is great for protyping latex syntax as explained in my one of my Stack Overflow [answers](https://stackoverflow.com/a/47798853).
+
+Mathematical formulas can also be framed by begining and ending double dollar signs.  Note the use of the double backslash to create a new line.
+
+$$
+x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\
+c = \sqrt{a^2 + b^2}
+$$
+
+
+The cost fuction or error function for linear regression is:
+
+$J_{test}(\Theta) = \dfrac{1}{2m_{test}} \sum_{i=1}^{m_{test}}(h_\Theta(x^{(i)}_{test}) - y^{(i)}_{test})^2$
+
+wheraas the cost function for logistic regression is:
+
+$J(\theta)_{test} = -\frac{1}{m_{test}}\sum_{i=1}^{m}[y_{test}^{(i)}\log h_\theta(x_{test}^{(i)}) + (1-y_{test}^{(i)})\log(1-h_\theta(x_{test}^{(i)}))]$
+
+
+
+## Extra Features
+
+This link to [Create a plot](#create) is an extra feature which contains additional extra features, including:
+
+- links to various urls
+- a pairs look at air quality data
+- summary of a predicted model.
+
+
