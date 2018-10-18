@@ -1,0 +1,107 @@
+Jupyter QtConsole 4.2.1
+Python 2.7.12 |Anaconda 4.2.0 (64-bit)| (default, Jun 29 2016, 11:07:13) [MSC v.1500 64 bit (AMD64)]
+Type "copyright", "credits" or "license" for more information.
+
+IPython 5.1.0 -- An enhanced Interactive Python.
+? -> Introduction and overview of IPython's features.
+%quickref -> Quick reference.
+help -> Python's own help system.
+object? -> Details about 'object', use 'object??' for extra details.
+
+In [1]: from sklearn.datasets import load_breast_cancer
+cancer = load_breast_cancer()
+len(cancer)
+
+Out[1]: 5
+
+In [2]: cancer.keys()
+Out[2]: ['target_names', 'data', 'target', 'DESCR', 'feature_names']
+
+In [3]: # Print full description by running:
+# print(cancer['DESCR'])
+# 569 data points with 30 features
+cancer['data'].shape
+Out[3]: (569L, 30L)
+
+In [4]: X = cancer['data']
+y = cancer['target']
+
+In [5]: len(X)
+Out[5]: 569
+
+In [7]: len(y)
+Out[7]: 569
+
+In [9]: y[:20]
+Out[9]: array([0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1])
+
+In [10]: X[:2]
+Out[10]: 
+array([[ 1.79900000e+01, 1.03800000e+01, 1.22800000e+02,
+1.00100000e+03, 1.18400000e-01, 2.77600000e-01,
+3.00100000e-01, 1.47100000e-01, 2.41900000e-01,
+7.87100000e-02, 1.09500000e+00, 9.05300000e-01,
+8.58900000e+00, 1.53400000e+02, 6.39900000e-03,
+4.90400000e-02, 5.37300000e-02, 1.58700000e-02,
+3.00300000e-02, 6.19300000e-03, 2.53800000e+01,
+1.73300000e+01, 1.84600000e+02, 2.01900000e+03,
+1.62200000e-01, 6.65600000e-01, 7.11900000e-01,
+2.65400000e-01, 4.60100000e-01, 1.18900000e-01],
+[ 2.05700000e+01, 1.77700000e+01, 1.32900000e+02,
+1.32600000e+03, 8.47400000e-02, 7.86400000e-02,
+8.69000000e-02, 7.01700000e-02, 1.81200000e-01,
+5.66700000e-02, 5.43500000e-01, 7.33900000e-01,
+3.39800000e+00, 7.40800000e+01, 5.22500000e-03,
+1.30800000e-02, 1.86000000e-02, 1.34000000e-02,
+1.38900000e-02, 3.53200000e-03, 2.49900000e+01,
+2.34100000e+01, 1.58800000e+02, 1.95600000e+03,
+1.23800000e-01, 1.86600000e-01, 2.41600000e-01,
+1.86000000e-01, 2.75000000e-01, 8.90200000e-02]])
+
+In [11]: from sklearn.model_selection import train_test_split
+X_train, X_test, y_train, y_test = train_test_split(X, y)
+
+
+In [12]: from sklearn.preprocessing import StandardScaler
+scaler = StandardScaler()
+# Fit only to the training data
+scaler.fit(X_train)
+
+Out[12]: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+In [13]: # Now apply the transformations to the data:
+X_train = scaler.transform(X_train)
+X_test = scaler.transform(X_test)
+
+
+In [14]: from sklearn.neural_network import MLPClassifier
+
+In [15]: mlp = MLPClassifier(hidden_layer_sizes=(30,30,30))
+
+In [16]: mlp.fit(X_train,y_train)
+Out[16]: 
+MLPClassifier(activation='relu', alpha=0.0001, batch_size='auto', beta_1=0.9,
+beta_2=0.999, early_stopping=False, epsilon=1e-08,
+hidden_layer_sizes=(30, 30, 30), learning_rate='constant',
+learning_rate_init=0.001, max_iter=200, momentum=0.9,
+nesterovs_momentum=True, power_t=0.5, random_state=None,
+shuffle=True, solver='adam', tol=0.0001, validation_fraction=0.1,
+verbose=False, warm_start=False)
+
+In [17]: predictions = mlp.predict(X_test)
+
+In [18]: from sklearn.metrics import classification_report,confusion_matrix
+print(confusion_matrix(y_test,predictions))
+
+[[49 2]
+[ 3 89]]
+
+In [19]: print(classification_report(y_test,predictions))
+precision recall f1-score support
+
+0 0.94 0.96 0.95 51
+1 0.98 0.97 0.97 92
+
+avg / total 0.97 0.97 0.97 143
+
+ 

