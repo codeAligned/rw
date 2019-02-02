@@ -1,0 +1,19 @@
+
+1. Fixed end notes to APA format per https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/reference_list_electronic_sources.html.
+Example:
+J Dean. (2008, May 7). When the self emerges: Is that me in the mirror? [web log comment]. 
+Retrieved from https://www.spring.org.uk/the1sttransport
+
+2. References to end notes are using superscript arabic numerals per https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/footnotes_and_endnotes.html
+
+3. References to github projects are updated per https://academia.stackexchange.com/a/14015.
+
+Example:
+P.W.D. Charles, Project Title, (2013), GitHub repository, https://github.com/charlespwd/project-title
+
+---
+
+https://www.infoworld.com/article/3121251/open-source-tools/bossie-awards-2016-the-best-open-source-networking-and-security-software.html
+
+Rashid, F. Y. (2016, September 21). Bossie Awards 2016: The best open source networking and security software. Retrieved from www.infoworld.com: https://www.infoworld.com/article/3121251/open-source-tools/bossie-awards-2016-the-best-open-source-networking-and-security-software.html
+
