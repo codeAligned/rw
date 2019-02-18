@@ -179,8 +179,13 @@ Q. Can you use SQL to query views?
 - unzip windows files all to same directory
 - optional: include folder in system path
 
-### Additional link
+### Additional linkS
 
 - Data Definition Languge [(DDD) and other terms](https://www.geeksforgeeks.org/sql-ddl-dml-dcl-tcl-commands/)
 - SQL [Symbols](https://www.periscopedata.com/blog/sql-symbol-cheatsheet)
+- [W3 Schools SQL Quick Ref](https://www.w3schools.com/sqlsql_quickref.asp)
+- [SQL in 1 page](http://www.cheat-sheets.org/sites/sql.su)
+
+
+
 
