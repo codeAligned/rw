@@ -68,23 +68,43 @@ We have added some lines of code in the Q2.SQL.txt file. Their purposes are:
 
 **Note:** Do not use .mode csv in your Q2.SQL.txt file. This will cause quotes to be printed in the output of each select ‘ ‘; statement.
 
-a.	[2 pt] Import data.  Create an SQLite database called olympics.db and provide the SQL code (and SQLite commands) used to create the following tables. Use SQLite’s dot commands (.separator STRING and .import FILE TABLE) to import data from files. 
+a.	[2 pt] Import data.  Create an SQLite database called olympics.db and provide the SQL code (and SQLite commands) used to create the following tables. Use SQLite’s dot commands (.separator STRING and .import FILE TABLE) to import data from files.
 
 Import the data about the athletes from athletes.csv (in the Q2 Folder, posted in CANVAS) into a new table (in olympics.db) called athletes with the schema:
 
-
- 
+    athletes(
+        id integer,
+        sex text,
+        dob text,
+        height float,
+        weight integer,
+        nationality text
+        )
 
 Import the data on the events from countries.csv (in the Q2 Folder) into a new table (in olympics.db) called countries with the schema:
 
- 
+    countries(
+        country text,
+        code text,
+        population integer,
+        gdp float
+        )
 
 Import the data on the games (such as athlete id, name, nationality information along with the
 sport name and number of different medals won) from games.csv (in the Q2 Folder) into a new
 table (in olympics.db) called games with the schema:
  
+    games(
+        id integer,
+        name text,
+        nationality text,
+        sport text,
+        gold integer,
+        silver integer,
+        bronze integer
+        )
 
-b.	[1 pt] Build indices. Create the following four indexes that will speed up subsequent join
+b. [1 pt] Build indices. Create the following four indexes that will speed up subsequent join
 operations (speed improvement is negligible for this small database, but significant for larger
 databases):
 
