@@ -3,7 +3,9 @@
 20190207: Lecture compries of 3 parts:
 
 - Student presentation of [Storytelling:The Next Step for Visualization](../../papers/0207_StoryTellingTableau.pdf)
-- Lecture/Lab on SQLite
+- SQLLite
+    + Lecture [pdf](SQLite.pdf)
+    + Lab [pdf](SQLiteHandon.pdf)
 - [HW1](../../hw/hw1/README.md) on SQLite assigned.
 - Announcment: TODO: Progress presentations: end February 2/28 (Graph), early April
 
