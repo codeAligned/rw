@@ -4,6 +4,8 @@ This homework was created by Prof Chau at Georgia Tech
 
 Due 2/21/19
 
+http://www.sqlitetutorial.net/
+
 ## Prerequisites
 
 SQLite must first be installed and included in the local directory or in the system path.

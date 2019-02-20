@@ -45,23 +45,27 @@ CREATE INDEX code_index ON countries(code);
 
 
 SELECT count(*) FROM games WHERE nationality='USA' AND gold>0;
+select '';
 
 -- (d) Distinct Sports.
 -- [insert sql statement(s) below]
 
-
 SELECT DISTINCT(sport) FROM games WHERE nationality='USA' AND gold>0 ORDER BY sport;
+select '';
 
 -- (e) Handling Empty Cells.
 -- [insert sql statement(s) below]
-
+.mode csv
 UPDATE countries SET population = NULL where population = '';
-SELECT country from countries ORDER BY population DESC LIMIT 5;
+SELECT country, SUM(gold+silver+bronze) FROM countries INNER JOIN games ON code=nationality GROUP BY country ORDER BY population DESC LIMIT 5;
+.mode list
+select '';
 
 -- (f) Female Athletes.
 -- [insert sql statement(s) below]
-
-
+.mode csv
+SELECT c.country, SUM(g.gold) gs from countries c INNER JOIN games g ON c.code=g.nationality INNER JOIN athletes a on g.id = a.id WHERE a.sex='female' AND g.gold > 0 GROUP BY country ORDER BY gs DESC LIMIT 5;
+.mode list
 select '';
 
 -- (g) Fit Athletes
