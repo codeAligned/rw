@@ -19,11 +19,29 @@ India,2
 Indonesia,4
 Brazil,51
 
+
 "United States",85
 Russia,41
 China,30
 Germany,29
 "United Kingdom",28
+
+
+"A Jesus Garcia",21.6333153055706
+"A Lam Shin",19.8412698412698
+"Aaron Brown",20.1510049994898
+"Aaron Cook",23.8884409806205
+"Aaron Gate",21.6721101309484
+"Aaron Royle",20.679012345679
+"Aaron Russell",23.3194527067222
+"Aauri Lorena Bokesa",19.1358024691358
+"Ababel Yeshaneh",19.8347107438017
+"Abadi Hadis",21.7993079584775
+
+
+
+
+
 
 
 

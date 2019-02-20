@@ -70,8 +70,9 @@ select '';
 
 -- (g) Fit Athletes
 -- [insert sql statement(s) below]
-
-
+.mode csv
+SELECT g.name, (a.weight/(a.height*a.height)) bmi FROM games g INNER JOIN athletes a ON g.id = a.id WHERE bmi >= 18.5 AND bmi <= 24.9 ORDER BY g.name, bmi DESC LIMIT 10;
+.mode list
 select '';
 
 -- (h) Percentages of Gold & Silver Medals.
