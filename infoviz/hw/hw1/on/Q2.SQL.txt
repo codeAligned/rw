@@ -77,14 +77,19 @@ select '';
 
 -- (h) Percentages of Gold & Silver Medals.
 -- [insert sql statement(s) below]
-
-
+.mode csv
+SELECT c.country, CAST(SUM(g.gold)*100.0/gt AS INT) git, CAST(SUM(g.silver)*100.0/st AS INT) sit from countries c JOIN games g on c.code=g.nationality JOIN (SELECT SUM(gold) as gt, SUM(silver) as st FROM games) GROUP BY c.code ORDER BY git DESC, sit DESC LIMIT 20;
+.mode list
 select '';
 
 -- (i) Creating a view.
 -- [insert sql statement(s) below]
 
-
+-- SELECT code, gdp FROM countries ORDER BY gdp desc;
+-- SELECT code, LAG(gdp, 1, 0) OVER (ORDER BY gdp DESC) FROM countries ORDER BY gdp DESC;
+SELECT country1.code, country1.gdp, country2.lgdp FROM ((SELECT code, gdp FROM countries ORDER BY gdp desc) country1 JOIN
+(SELECT code, LAG(gdp, 1, 0) OVER (ORDER BY gdp DESC) as lgdp FROM countries ORDER BY gdp DESC) country2
+ON country1.code=country2.code);
 select '';
 
 -- (j) Count total pairs.
