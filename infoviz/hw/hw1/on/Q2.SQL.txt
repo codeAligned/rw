@@ -44,7 +44,7 @@ CREATE INDEX code_index ON countries(code);
 -- [insert sql statement(s) below]
 
 
-SELECT count(*) FROM games WHERE nationality='USA' AND gold>0;
+SELECT COUNT(*) FROM games WHERE nationality='USA' AND gold>0;
 select '';
 
 -- (d) Distinct Sports.
@@ -87,32 +87,45 @@ select '';
 
 -- SELECT code, gdp FROM countries ORDER BY gdp desc;
 -- SELECT code, LAG(gdp, 1, 0) OVER (ORDER BY gdp DESC) FROM countries ORDER BY gdp DESC;
-SELECT country1.code, country1.gdp, country2.lgdp FROM ((SELECT code, gdp FROM countries ORDER BY gdp desc) country1 JOIN
-(SELECT code, LAG(gdp, 1, 0) OVER (ORDER BY gdp DESC) as lgdp FROM countries ORDER BY gdp DESC) country2
-ON country1.code=country2.code);
+.mode csv
+CREATE VIEW gdp_metrics AS
+SELECT country1.name as full_country1_name, country2.country as full_country2_name, country1.gross-country2.gdp as difference_gdp FROM
+((SELECT code, LAG(country, 1) OVER (ORDER BY gdp DESC) as name, LAG(gdp, 1) OVER (ORDER BY gdp DESC) as gross FROM countries ORDER BY gdp DESC) country1
+JOIN (SELECT country, code, gdp FROM countries ORDER BY gdp desc) country2 
+ON country1.code=country2.code) 
+WHERE difference_gdp > 0 AND difference_gdp < 100;
+SELECT * FROM gdp_metrics ORDER BY difference_gdp DESC LIMIT 5;
+.mode list
 select '';
 
 -- (j) Count total pairs.
 -- [insert sql statement(s) below]
-
-
+SELECT COUNT(*) FROM gdp_metrics ORDER BY difference_gdp DESC LIMIT 5;
 select '';
 
 -- (k) Create and import data into FTS table movie_overview.
 -- [insert sql statement(s) below]
-
+CREATE VIRTUAL TABLE movie_overview USING fts4(
+    id integer, 
+    name text, 
+    year integer, 
+    overview text, 
+    popularity decimal);
+.separator ','
+.import movie-overview.txt movie_overview
 
 -- (k) part 1
 -- [insert sql statement(s) below]
 
-
+SELECT COUNT(*) from movie_overview WHERE overview MATCH '^in';
 select '';
 
 -- (k) part 2
 -- [insert sql statement(s) below]
 
-
+SELECT id from movie_overview WHERE overview MATCH 'love NEAR/7 city';
 select '';
 
 -- (k) part 3
 -- [insert sql statement(s) below]
+SELECT name from movie_overview WHERE overview MATCH 'geo*';

@@ -57,7 +57,22 @@ Hungary,1,0
 "Korea, South",1,0
 "New Zealand",0,3
 
+Zambia,Cameroon,87.6183440000002
+Russia,Mexico,87.5562709999995
+Grenada,Turkey,86.332762
+"Solomon Islands",Congo,83.656377
+Algeria,Guyana,78.680214
 
+89
 
+19
 
+19
+289
 
+A Trip to the Moon
+Paths of Glory
+Deliverance
+Gravity
+Amour
+Star Wars: Episode VII - The Force Awakens
