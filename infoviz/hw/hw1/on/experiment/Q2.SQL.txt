@@ -45,7 +45,7 @@ CREATE INDEX code_index ON countries(code);
 -- [insert sql statement(s) below]
 
 
-SELECT SUM(gold) FROM games WHERE nationality='USA' AND gold>0;
+SELECT SUM(*) FROM games WHERE nationality='USA' AND gold>0;
 select '';
 
 -- (d) Distinct Sports.
@@ -56,50 +56,58 @@ select '';
 
 -- (e) Handling Empty Cells.
 -- [insert sql statement(s) below]
+.mode csv
 UPDATE countries SET population = NULL where population = '';
-SELECT country, SUM(gold+silver+bronze) FROM countries 
-INNER JOIN games ON code=nationality 
-GROUP BY country ORDER BY population DESC LIMIT 5;
+SELECT country, SUM(gold+silver+bronze) FROM countries INNER JOIN games ON code=nationality GROUP BY country ORDER BY population DESC LIMIT 5;
+.mode list
 select '';
 
 -- (f) Female Athletes.
 -- [insert sql statement(s) below]
-SELECT c.country, COUNT(g.gold) gs from countries c 
-INNER JOIN games g ON c.code=g.nationality 
-INNER JOIN athletes a on g.id = a.id 
+.mode csv
+SELECT c.country, COUNT(g.gold) gs from countries c INNER JOIN games g 
+ON c.code=g.nationality INNER JOIN athletes a on g.id = a.id 
 WHERE a.sex='female' AND g.gold > 0 GROUP BY country ORDER BY gs DESC LIMIT 5;
+.mode list
 select '';
 
 -- (g) Fit Athletes
 -- [insert sql statement(s) below]
-SELECT g.name, (a.weight/(a.height*a.height)) bmi FROM games g 
-INNER JOIN athletes a ON g.id = a.id WHERE bmi >= 18.5 AND bmi <= 24.9 
-ORDER BY g.name, bmi DESC LIMIT 10;
+.mode csv
+SELECT g.name, (a.weight/(a.height*a.height)) bmi FROM games g INNER JOIN athletes a ON g.id = a.id WHERE bmi >= 18.5 AND bmi <= 24.9 ORDER BY g.name, bmi DESC LIMIT 10;
+.mode list
 select '';
 
 -- (h) Percentages of Gold & Silver Medals.
 -- [insert sql statement(s) below]
-SELECT c.country, CAST(SUM(g.gold)*100.0/gt AS INT) git, CAST(SUM(g.silver)*100.0/st AS INT) sit FROM countries c 
-INNER JOIN games g on c.code=g.nationality 
-INNER JOIN (SELECT SUM(gold) as gt, SUM(silver) as st FROM games) 
-GROUP BY c.code ORDER BY git DESC, sit DESC LIMIT 20;
+.mode csv
+SELECT c.country, CAST(SUM(g.gold)*100.0/gt AS INT) git, CAST(SUM(g.silver)*100.0/st AS INT) sit from countries c JOIN games g on c.code=g.nationality JOIN (SELECT SUM(gold) as gt, SUM(silver) as st FROM games) GROUP BY c.code ORDER BY git DESC, sit DESC LIMIT 20;
+.mode list
 select '';
 
 -- (i) Creating a view.
 -- [insert sql statement(s) below]
-CREATE VIEW gdp_metrics AS
-SELECT c1.country as full_country1_name, c2.country as full_country1_name, c1.gdp-c2.gdp as diff FROM 
-(
- (SELECT * FROM countries where gdp!='') c1 
- INNER JOIN (SELECT * FROM countries where gdp!='') c2 
- ON c1.code!=c2.code
-) WHERE diff > 0 AND diff <= 100 ORDER BY diff DESC;
-SELECT * FROM gdp_metrics ORDER BY diff DESC LIMIT 5;
+
+-- SELECT code, gdp FROM countries ORDER BY gdp desc;
+-- SELECT code, LAG(gdp, 1, 0) OVER (ORDER BY gdp DESC) FROM countries ORDER BY gdp DESC;
+.mode csv
+-- CREATE VIEW gdp_metrics AS
+-- SELECT country1.name as full_country1_name, country2.country as full_country2_name, country1.gross-country2.gdp as difference_gdp FROM
+-- ((SELECT code, LAG(country, 1) OVER (ORDER BY gdp DESC) as name, LAG(gdp, 1) OVER (ORDER BY gdp DESC) as gross FROM countries ORDER BY gdp DESC) country1
+-- JOIN (SELECT country, code, gdp FROM countries ORDER BY gdp desc) country2 
+-- ON country1.code=country2.code) 
+-- WHERE difference_gdp > 0 AND difference_gdp < 100;
+-- SELECT * FROM gdp_metrics ORDER BY difference_gdp DESC LIMIT 5;
+create view gdp_metrics as with filter as 
+(select * from countries where gdp != '') 
+select a.country,b.country,a.gdp-b.gdp as diff from filter a inner join filter b on a.country != b.country where diff > 0.0 and diff <= 100.0;
+select * from gdp_metrics order by diff desc limit 5;
+.mode list
 select '';
 
 -- (j) Count total pairs.
 -- [insert sql statement(s) below]
-SELECT COUNT(*) FROM gdp_metrics;
+SELECT COUNT(*) FROM gdp_metrics ORDER BY difference_gdp DESC LIMIT 5;
 select '';
 
 -- (k) Create and import data into FTS table movie_overview.

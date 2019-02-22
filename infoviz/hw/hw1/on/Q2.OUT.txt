@@ -1,4 +1,4 @@
-119
+139
 
 aquatics
 athletics
@@ -15,29 +15,29 @@ wrestling
 
 China,113
 India,2
-"United States",264
+United States,264
 Indonesia,4
 Brazil,51
 
-"United States",85
-Russia,41
-China,30
+United States,74
+Russia,38
 Germany,29
-"United Kingdom",28
+China,28
+United Kingdom,27
 
-"A Jesus Garcia",21.6333153055706
-"A Lam Shin",19.8412698412698
-"Aaron Brown",20.1510049994898
-"Aaron Cook",23.8884409806205
-"Aaron Gate",21.6721101309484
-"Aaron Royle",20.679012345679
-"Aaron Russell",23.3194527067222
-"Aauri Lorena Bokesa",19.1358024691358
-"Ababel Yeshaneh",19.8347107438017
-"Abadi Hadis",21.7993079584775
+A Jesus Garcia,21.6333153055706
+A Lam Shin,19.8412698412698
+Aaron Brown,20.1510049994898
+Aaron Cook,23.8884409806205
+Aaron Gate,21.6721101309484
+Aaron Royle,20.679012345679
+Aaron Russell,23.3194527067222
+Aauri Lorena Bokesa,19.1358024691358
+Ababel Yeshaneh,19.8347107438017
+Abadi Hadis,21.7993079584775
 
-"United States",20,8
-"United Kingdom",9,8
+United States,20,8
+United Kingdom,9,8
 Germany,7,6
 Russia,7,4
 China,6,4
@@ -54,16 +54,16 @@ Spain,1,2
 Jamaica,1,2
 Fiji,1,0
 Hungary,1,0
-"Korea, South",1,0
-"New Zealand",0,3
+Korea, South,1,0
+New Zealand,0,3
 
-Zambia,Cameroon,87.6183440000002
-Russia,Mexico,87.5562709999995
-Grenada,Turkey,86.332762
-"Solomon Islands",Congo,83.656377
-Algeria,Guyana,78.680214
+Gambia,Malawi,99.5514477
+Philippines,Vanuatu,98.8874379999997
+Comoros,Ethiopia,98.2794435
+Uruguay,Seychelles,97.88148
+Congo, Dem Rep,Niger,97.0945885
 
-89
+217
 
 19
 
