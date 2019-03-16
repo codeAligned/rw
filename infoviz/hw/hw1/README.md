@@ -158,7 +158,8 @@ Find the athletes who are fit (according to the above definition) and list their
 
 **Note:** The athletes table lists the height in meters and weight in kilograms.
 Format of each line in the output:
-athlete_name, bmi_value
+
+    athlete_name, bmi_value
 
 *Hint:* Consider using [BETWEEN](https://www.w3schools.com/sql/sql_between.asp).
 
