@@ -148,3 +148,12 @@ venv.bak/
 .zip
 
 .Rproj.user
+infoviz/lecture/03/sqlitehandon/sqldiff.exe
+
+# sqlite3 files
+sql*.exe
+sql*.dll
+sql*.def
+*.zip
+
+download/
