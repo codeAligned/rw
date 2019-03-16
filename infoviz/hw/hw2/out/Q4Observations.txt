@@ -1,0 +1,7 @@
+c.i.a. 47 rows
+c.i.b. 5 new columns
+c.ii. 562 clusters
+c.iii. if(isNull(value),"Unbranded",value)
+c.iv. if(toNumber(value)>100, 1, 0)
+c.v. if(or(value.contains("discount"), value.contains("offer"), value.contains("sale")),1,0)
+
