@@ -1,11 +1,8 @@
 # Lecture 06 - 20190307
 
-Class next Thursday 3/14
-No class 3/21
-hw due 3/21
-
-
-Open refine homewor
+Class next Thursday 3/14  
+No class 3/21  
+Open refine homework due 3/21
 
 ## OpenRefine Hands On Practices
 
@@ -17,7 +14,12 @@ E:\home\rneely\rn\rw\infoviz\lecture\06\package\louisiana-elected-officials.csv
 
 ## OpenRefine Homework (10 pts.)
 
+# Paper Presentations (2)
+
 ## Visual Analytics: Definition, Process, and Challenges Paper Summary
+
+[Paper](../../papers/0307_Visual Analytics- Definition, Process, and Challenges.pdf) 
+
 
 Robert Reeders, Edward Carter, Nicholas Mariani
 
@@ -26,61 +28,61 @@ Robert Reeders, Edward Carter, Nicholas Mariani
 
 Information Overload -> Opportunity
 
-# VA
-
+### Visual Analytics (VA)
 
 Data -> Visualization and Models -> Knowledge
 
-# Areas Used
+### Areas Used
 
-Machine learning  + Humand Ognitation
+Machine learning  + Human Cognition
 
 - demographic graphs
 - data management
 - data analysis
-- perceptiona nd cognitionat
-- human-computer interation
-- infrastruture and evaluation
+- perception and cognition
+- human-computer interaction
+- infrastructure and evaluation
 
-# Scalablity
+### Scalability
 
-# Quality of data
+### Quality of data
 
-- Analysits can misinterpert data
+- Analysts can misinterpret data
     + Uncertainty
     + Limitations
     + Errors in input data
-    + Chosen algorithsm used
+    + Chosen algorithms used
 - User should be aware of uncertainties
 
-# Visual Representations
+### Visual Representations
 
-- Selecting finde details to provide a global overview can prove difficult
-- Patternes and relationships need to be visualized on many levels of detail
-- appropropriate level of data
+- Selecting fine details to provide a global overview can prove difficult
+- Patterns and relationships need to be visualized on many levels of detail
+- appropriate level of data
 
-# User Interfaces
+### User Interfaces
 
 - UI must be easy to use
-    + user should be foceuse ont tasks
+    + user should be focus on tasks
 
-# Display Devies
+### Display Devices
 
-- must adapt to avialable display options
-    + Large scale walls to small portable devieces
-    + what can audinces see
+- must adapt to available display options
+    + Large scale walls to small portable devices
+    + what can audiences see
     + what ...
 
-# Evaluation
+### Evaluation
 
-- No eval framework exists
-    + visual analytics has a complex and hetrogeneous probblemdomain
+- No evaluation framework exists
+    + visual analytics has a complex and heterogeneous problem domain
     + ...
 
-# Infrfastructure
-    + Smooth interations needed (memory, dis, graphics card, algoritme efficiency
+### Infrastructure
 
-# Applications
+    + Smooth interactions needed (memory, dis, graphics card, algorithm efficiency
+
+### Applications
 
 VA can process vast amounts of data: i.e.  cell phone GPS.
 
@@ -92,13 +94,13 @@ Temporal histogram: distribution of stops
 
 map showing flow with different size arrows on map
 
-# Example: international flight data
+### Example: international flight data
 
 too much data
 
 limit to u.s. and asia
 
-# VA
+### VA
 
 computation + human intuition
 
@@ -106,115 +108,116 @@ computation + human intuition
 
 validate visual analytics via user case study
 
-########## Data Wrangling
+# Data Wrangling Paper
+
+Paper [pdf](../../infoviz/papers/0228_2011-DataWrangling-IVJ.pdf)
 
 Tom, Jeff, ..
 
-# What is data wrangling
+### What is data wrangling
 
- - raw data -> analytings
- - data munginsg
+ - raw data -> analytics
+ - data munging
 
-# Research Directions in Data Wrangline
+### Research Directions in Data Wrangling
 
 - visualization could speed up cleaning data
 
-# Existing issues
+### Existing issues
 
 - data relevance
 - data format
-- time invstment to change formatns
+- time investment to change formats
 - missing data
-- inconsitente
+- inconsistencies
 - duplicate data
 - transformation
 - cleaning
 
-~ 80% tima dn cost
+~ 80% time dn cost
 
-- discourages people from engaging some datasets
+- discourages people from engaging some data sets
 
-## Issues Summary
+### Issues Summary
 
 - More time spent wrangling data than studying it
 - Imposes a needless learning curve
 - removing cleaning curve allows more people to analyze
 
-# visualization proe
+### Visualization pros
 
 algorithmic
-- duplicat removal
+- duplicate removal
 - schema matching
     + compare tables for relations
-- eitity resoulutoin
+- entity resolution
     - disambiguation
 
+### Visualization cons
 
-# Visualization cons
-
-- dirty data can be difficutl to visualize
+- dirty data can be difficult to visualize
 
 connection maps
 
 data aggregations
 
-heatmap of bins
+heat map of bins
 
-# Data at scale
+### Data at scale
 
-- use hexgonal 2d bins
+- use hexagonal 2d bins
     + improves density estimates
 - use good color schemes
 - sampling
     + confidence interval
     + no need for complete dataset
 
-# Automation
+### Automation
 
 - Algorithms
-    + find discrepencies and outliers
+    + find discrepancies and outliers
 - Validation Routines
     + RegEx patterns
 - Complex Data Mining
 - Active Learning
     + data dirty or missing?
 
-# Visualizing missing data
+### Visualizing missing data
 
 - 0
 - blank
 - fade
 - interpolate
 
-5 types uncertaitny
+5 types uncertainty
 
-- measurments precision
-- completenetess
+- measurements precision
+- completeness
 - inference
 - disagreement
-- credibitliy
+- credibility
 
-# Glyphs
+### Glyphs
 
-# Transforming Data
+### Transforming Data
 
 various tools
 
-# Correcting Erroneous Values
+### Correcting Erroneous Values
 
 - batch process
 - fill in
 - interpolate
 
 
-# Mergings
+### Mergings
 
 schema matching imports
 
-# Editing and Auditing Transformation
+### Editing and Auditing Transformation
 
 Need scripts to keep up with needed transformations
 
-# Modification and Reuse
+### Modification and Reuse
 
-Code your data cleaning to be resued
+Code your data cleaning to be reused.
